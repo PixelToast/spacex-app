@@ -7,6 +7,8 @@ Timelapse video:
 " target="_blank"><img src="http://img.youtube.com/vi/m49bP5alwPU/0.jpg" 
 alt="" width="560" height="315" border="10" /></a>
 
+Screenshots:
+
 ![](https://i.imgur.com/3aDOhSa.png)
 ![](https://i.imgur.com/23zcw9p.png)
 
